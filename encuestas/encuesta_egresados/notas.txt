@@ -1,0 +1,2 @@
+se modificó esta linea del archivo enviar_escuestas/php/enviar_correo_egresado.php
+$link="https://argos.lamar.mx/encuestas/encuesta_egresados/encuesta-egresados.php?m=".encrypt($matricula, "agresadoslamar");   

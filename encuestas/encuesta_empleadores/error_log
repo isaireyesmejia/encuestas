@@ -1,0 +1,10 @@
+[07-Oct-2021 11:36:55 America/New_York] PHP Notice:  Undefined variable: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 13
+[07-Oct-2021 11:50:04 America/New_York] PHP Notice:  Undefined variable: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 13
+[07-Oct-2021 11:57:12 America/New_York] PHP Notice:  Undefined index: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 5
+[07-Oct-2021 12:18:12 America/New_York] PHP Notice:  Undefined index: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 5
+[07-Oct-2021 12:33:15 America/New_York] PHP Notice:  Undefined index: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 5
+[07-Oct-2021 12:35:04 America/New_York] PHP Notice:  Undefined index: matricula in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 5
+[07-Oct-2021 12:42:50 America/New_York] PHP Notice:  Undefined variable: matricula_encriptada in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 7
+[07-Oct-2021 12:46:52 America/New_York] PHP Notice:  Undefined variable: matricula_encriptada in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 7
+[07-Oct-2021 12:50:24 America/New_York] PHP Notice:  Undefined variable: matricula_encriptada in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 7
+[07-Oct-2021 12:51:41 America/New_York] PHP Notice:  Undefined variable: matricula_encriptada in /home/argoslamar/public_html/encuestas/encuesta_egresados/guardar_cuestionario.php on line 7
